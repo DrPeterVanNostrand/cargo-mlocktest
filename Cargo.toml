@@ -1,0 +1,9 @@
+[package]
+name = "cargo-mlocktest"
+version = "0.1.0"
+authors = ["DrPeterVanNostrand <jnz@riseup.net>"]
+
+[dependencies]
+
+[dev-dependencies]
+memsec = "0.5.4"
